@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/discord-log-parser/static/js/app.14321d73.chunk.js",
+    "app.js.map": "/discord-log-parser/static/js/app.14321d73.chunk.js.map",
+    "runtime~app.js": "/discord-log-parser/static/js/runtime~app.3584bd9f.js",
+    "runtime~app.js.map": "/discord-log-parser/static/js/runtime~app.3584bd9f.js.map",
+    "static/js/2.9059c1b7.chunk.js": "/discord-log-parser/static/js/2.9059c1b7.chunk.js",
+    "static/js/2.9059c1b7.chunk.js.map": "/discord-log-parser/static/js/2.9059c1b7.chunk.js.map",
+    "fonts/AntDesign.ttf": "/discord-log-parser/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/discord-log-parser/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/discord-log-parser/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/discord-log-parser/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/discord-log-parser/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/discord-log-parser/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/discord-log-parser/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/discord-log-parser/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/discord-log-parser/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/discord-log-parser/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/discord-log-parser/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/discord-log-parser/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/discord-log-parser/favicon-16.png",
+    "favicon-32.png": "/discord-log-parser/favicon-32.png",
+    "favicon.ico": "/discord-log-parser/favicon.ico",
+    "index.html": "/discord-log-parser/index.html",
+    "manifest.json": "/discord-log-parser/manifest.json",
+    "serve.json": "/discord-log-parser/serve.json",
+    "static/js/2.9059c1b7.chunk.js.LICENSE.txt": "/discord-log-parser/static/js/2.9059c1b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3584bd9f.js",
+    "static/js/2.9059c1b7.chunk.js",
+    "static/js/app.14321d73.chunk.js"
+  ]
+}
